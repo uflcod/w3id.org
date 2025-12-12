@@ -8,4 +8,4 @@
 
 # Maintainers/Contact
 - [Tuan Amith](http://github.com/ProfTuan) muamith AT utmb DOT edu
-- [Bill Duncan]()
+- [Bill Duncan](https://github.com/wdduncan) wdduncan AT gmail DOT com
